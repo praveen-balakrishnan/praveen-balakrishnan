@@ -1,3 +1,3 @@
 ## Hi, I'm Praveen!
 
-[![Praveens's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveen-balakrishnan)](https://github.com/anuraghazra/github-readme-stats)
+![Praveen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-balakrishnan&layout=compact)
